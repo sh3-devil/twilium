@@ -1,0 +1,2 @@
+(window.webpackJsonptrilium=window.webpackJsonptrilium||[]).push([[639],{7639:(o,n,c)=>{"use strict";c.r(n),c.d(n,{showDialog:()=>l});var t=c(9800),a=c(9046);const i=$("#backend-log-dialog"),e=$("#backend-log-textarea");async function l(){a.Z.openDialog(i),r()}function s(){e.scrollTop(e[0].scrollHeight)}async function r(){const o=await t.Z.get("backend-log");e.text(o),s()}$("#refresh-backend-log-button").on("click",r),i.on("shown.bs.modal",s)}}]);
+//# sourceMappingURL=639.desktop.js.map

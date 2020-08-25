@@ -1,0 +1,2 @@
+(window.webpackJsonptrilium=window.webpackJsonptrilium||[]).push([[461],{461:(i,o,n)=>{"use strict";n.r(o),n.d(o,{showDialog:()=>p});var s=n(46);const a=$("#help-dialog");async function p(){s.Z.openDialog(a)}}}]);
+//# sourceMappingURL=461.setup.js.map

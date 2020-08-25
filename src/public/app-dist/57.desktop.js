@@ -1,0 +1,2 @@
+(window.webpackJsonptrilium=window.webpackJsonptrilium||[]).push([[57],{4057:(o,n,i)=>{"use strict";i.r(n),i.d(n,{info:()=>c});var t=i(9046);const e=$("#info-dialog"),l=$("#info-dialog-content"),s=$("#info-dialog-ok-button");let d,r;function c(o){return r=$(":focus"),l.text(o),t.Z.openDialog(e),new Promise((o,n)=>{d=o})}e.on("shown.bs.modal",()=>s.trigger("focus")),e.on("hidden.bs.modal",()=>{d&&d(),r&&(r.trigger("focus"),r=null)}),s.on("click",()=>e.modal("hide"))}}]);
+//# sourceMappingURL=57.desktop.js.map
